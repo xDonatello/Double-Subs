@@ -1,5 +1,5 @@
 # Double Subs with MPC-HC and VSFilter
-https://github.com/xDonatello/XXX/
+https://github.com/xDonatello/Double-Subs/
 
 1) Install latest version of MPC-HC:
 https://github.com/clsid2/mpc-hc/releases
