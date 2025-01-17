@@ -25,5 +25,6 @@ Play > Subtitle Track > preferred language
 Play > Filters > VSFilter (auto-loading version) > Properties...
 - Main > Open... > select the .srt subtitle file
 - Main > Text Settings > click on "Arial" > set 'Screen Alignment' to top
+- General > Loading > select "Always load"
 #
 6) Watch your movie!
